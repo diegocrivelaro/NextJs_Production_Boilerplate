@@ -1,7 +1,10 @@
 {
   "name": "nextjsproductionboilerplate",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "private": true,
+  "engines": {
+    "node": ">=18.15.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
